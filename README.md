@@ -95,9 +95,7 @@ O simulador permite:
 
 ## Como executar
 1. Clone este repositório:
-```bash
-git clone https://github.com/CarolineGrizante/Graph-csharp.git  
-2. Compile e execute o projeto **SimuladorSO**.  
-3. Use o painel lateral para adicionar, remover ou visualizar processos, e executar os diferentes escalonadores.  
 
+```bash
+git clone https://github.com/CarolineGrizante/SistemaOperacional.git
 ---
