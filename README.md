@@ -53,19 +53,19 @@ O simulador permite:
 ### 3️⃣ Inserindo um novo processo
 ![3](ImagensSimulador/3.png)
 
-### 4️⃣ Processo adicionado à lista
+### 4️⃣ Removendo um processo e atualizando a lista
 ![4](ImagensSimulador/4.png)
 
-### 5️⃣ Removendo um processo e atualizando a lista
+### 5️⃣ Execução do escalonador FCFS
 ![5](ImagensSimulador/5.png)
 
-### 6️⃣ Execução do escalonador FCFS
+### 6️⃣ Execução do escalonador SJF
 ![6](ImagensSimulador/6.png)
 
-### 7️⃣ Execução do escalonador SJF
+### 7️⃣ Execução do escalonador RR com Quantum = 3
 ![7](ImagensSimulador/7.png)
 
-### 8️⃣ Execução do escalonador RR com Quantum = 3
+### 8️⃣ Tempo e alocação finais
 ![8](ImagensSimulador/8.png)
 
 ---
