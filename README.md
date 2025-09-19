@@ -41,6 +41,21 @@ O simulador permite:
    Mostrar como os processos foram alocados na memória e o tempo total de execução simulado.
 
 ---
+## Demonstração em GIFs 🎥
+
+### ▶️ Adicionando um processo
+![addProcesso](ImagensSimulador/addProcesso.gif)
+
+### ▶️ Removendo um processo
+![removeProcesso](ImagensSimulador/removeProcesso.gif)
+
+### ▶️ Execução dos algoritmos de escalonamento
+![escalonamento](ImagensSimulador/escalonamento.gif)
+
+### ▶️ Memória e tempo de execução finais
+![memoriaTempo](ImagensSimulador/memoriaTempo.gif)
+
+---
 
 ## Legendas das imagens
 
@@ -79,11 +94,10 @@ O simulador permite:
 ---
 
 ## Como executar
-
-1. Abra a solução **SimuladorSO.sln** no Visual Studio.  
+1. Clone este repositório:
+```bash
+git clone https://github.com/CarolineGrizante/Graph-csharp.git  
 2. Compile e execute o projeto **SimuladorSO**.  
 3. Use o painel lateral para adicionar, remover ou visualizar processos, e executar os diferentes escalonadores.  
 
 ---
-
-Este projeto é ideal para **estudantes de Sistemas Operacionais** que desejam visualizar de forma prática o comportamento de algoritmos de escalonamento de processos sem a complexidade de sistemas reais.
