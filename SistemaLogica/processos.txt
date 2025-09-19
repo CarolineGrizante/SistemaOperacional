@@ -1,0 +1,11 @@
+# Formato: 
+# ProcessoId;ThreadId;TempoExecucao;EnderecoMemoria;Prioridade
+
+P1;T1;5;100;2
+P1;T2;3;101;1
+P2;T1;8;200;3
+P2;T2;4;201;2
+P3;T1;2;300;1
+P3;T2;6;301;2
+P3;T3;7;302;3
+P4;T1;10;400;1
