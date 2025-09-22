@@ -1,4 +1,4 @@
-# Simulador de Processos (SimuladorSO)
+# Simulador de um Sistema Operacional
 
 Este projeto é um **simulador de gerenciamento de processos** desenvolvido em C# com WPF, que permite visualizar o comportamento de processos e threads utilizando três tipos de escalonamento: **FCFS, SJF e Round Robin**.  
 
